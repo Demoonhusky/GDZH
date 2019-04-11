@@ -176,7 +176,7 @@ tagGDX2ItemSkillD220Name=黎明碎片
 tagGDX2ItemSkillD220Desc=从你这向外爆发出最纯净的索拉丁水晶碎片再返回你之前并灼烧你的敌人。
 
 tagGDX2ItemSkillD221Name=寇瓦克的复仇
-tagGDX2ItemSkillD221Desc=一阵狂暴可怕的能量从你身上爆发，病灼烧你周围的敌人。
+tagGDX2ItemSkillD221Desc=从你身上爆发出一阵狂暴而可怕的能量，并灼烧你周围的敌人。
 
 tagGDX2ItemSkillD222Name=死灵新星
 tagGDX2ItemSkillD222Desc=死灵的能量从你体内爆发并且削弱周围敌人的力量。
